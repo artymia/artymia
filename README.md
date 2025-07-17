@@ -1,2 +1,1 @@
-# 💫 About Me:
-🔭 I’m currently working on **Web √-1 (Web i)** – a next-gen internet and browser.  <br>👯 I’m looking to collaborate on **Web security, AI, and innovative tech projects.**  <br>🤝 I’m looking for help with **low-level networking, OS development, and advanced cryptography.**  <br>🌱 I’m currently learning **Rust, WebAssembly, and cybersecurity tactics.**  <br>💬 Ask me about **MERN stack, ethical hacking, and building secure web applications.**  <br>⚡ Fun fact: **I believe the Omniverse is ours to conquer!** 🚀  <br>
+
